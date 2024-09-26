@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: db1
+  namespace: project-plato  # Replace <your-namespace> with the actual namespace name
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: db1
+  template:
+    metadata:
+      labels:
+        app: db1
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:1.16.1-alpine
+        resources:
+         requests:
+           memory: "32Mi"
+           cpu: "50m"
+         limits:
+           memory: "64Mi"
+           cpu: "100m"
+        ports:
+        - containerPort: 80
+        readinessProbe:
+          tcpSocket:
+            port: 80
+          initialDelaySeconds: 5  # Wait before starting the probe
+          periodSeconds: 10       # Check every 10 seconds
+          timeoutSeconds: 3 

@@ -1,0 +1,283 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="954" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wics21i9etjW31Lj-4hc-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1120" width="44" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="121" y="-970" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-9" target="wics21i9etjW31Lj-4hc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="-960" as="sourcePoint" />
+            <mxPoint x="510" y="-1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="-1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-4" value="Jenkins or Gitlab CI" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="439" y="-1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-1" target="wics21i9etjW31Lj-4hc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-1100" as="sourcePoint" />
+            <mxPoint x="510" y="-1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-11" value="Gitlab or Github Repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-1110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-13" value="Continuous Integration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="215" y="-1102" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-14" value="Code Build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="442" y="-1080" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-17" value="Pull Request?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-1" target="wics21i9etjW31Lj-4hc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-1070" as="sourcePoint" />
+            <mxPoint x="490" y="-1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="-1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-1070" as="sourcePoint" />
+            <mxPoint x="160" y="-1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="-1160" />
+              <mxPoint x="160" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-21" target="wics21i9etjW31Lj-4hc-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-21" value="Rejected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-1182" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-17" target="wics21i9etjW31Lj-4hc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-1070" as="sourcePoint" />
+            <mxPoint x="490" y="-1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="-1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-23" value="Approved" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-1302" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-26" value="Cloud Registry&amp;nbsp;&lt;div&gt;Nexus or&amp;nbsp; JFrog&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="604" y="-1370" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-27" value="Docker image" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-1222" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-1280" as="sourcePoint" />
+            <mxPoint x="687" y="-1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-29" value="Docker Push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="694" y="-1222" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-4" target="wics21i9etjW31Lj-4hc-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-1280" as="sourcePoint" />
+            <mxPoint x="490" y="-1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-32" value="Docker Build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="504" y="-1190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-33" value="Artifact Registry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-1400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-27" target="wics21i9etjW31Lj-4hc-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="-1160" as="sourcePoint" />
+            <mxPoint x="770" y="-1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-38" value="Docker Image Auditing using docker scan or docker benc etc." style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="461" y="-1430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-39" value="Kubernetes Cluster&lt;div&gt;RBAC&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-1160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-40" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="127" y="-910" width="23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-45" value="Terraform/Ansible" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-1" target="wics21i9etjW31Lj-4hc-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-1070" as="sourcePoint" />
+            <mxPoint x="580" y="-950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="-960" />
+              <mxPoint x="200" y="-770" />
+              <mxPoint x="320" y="-770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.667;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.35;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-45" target="wics21i9etjW31Lj-4hc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="-980" as="sourcePoint" />
+            <mxPoint x="960" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-48" value="Terraform Scripts in SCM provision Kubernetes Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="442" y="-770" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="-1190" as="sourcePoint" />
+            <mxPoint x="960" y="-1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="-1335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-50" value="Pulls Image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="835" y="-1362" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-51" value="Hashicorp Vault /&lt;div&gt;Kubernetes Secret&lt;div&gt;for storing secrets&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-1370" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.667;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="-1190" as="sourcePoint" />
+            <mxPoint x="1160" y="-1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="-1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-39" target="wics21i9etjW31Lj-4hc-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="-1070" as="sourcePoint" />
+            <mxPoint x="920" y="-1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-55" value="Prometheus/&lt;div&gt;Grafana for&lt;/div&gt;&lt;div&gt;Monitoring and Logging&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-1152" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-58" target="wics21i9etjW31Lj-4hc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="-1070" as="sourcePoint" />
+            <mxPoint x="730" y="-1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="-1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-57" value="Continuous Deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-1040" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-4" target="wics21i9etjW31Lj-4hc-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="-1100" as="sourcePoint" />
+            <mxPoint x="920" y="-1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-58" value="Spinnaker or&lt;div&gt;&amp;nbsp;Jenkins CD&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-1155" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-64" value="HELM or&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kustomise&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;for packaging&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Artifact&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-66" target="wics21i9etjW31Lj-4hc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-66" value="Istio or Linkerd&lt;div&gt;Service Mesh&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="909.5" y="-1490" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-68" value="Nginx Ingress Controller" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-1070" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-69" value="Ceph" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="1010.5" y="-1070" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-71" value="Kubernetes&lt;div&gt;&amp;nbsp;Dashboard&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-72" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1" target="wics21i9etjW31Lj-4hc-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="-1037" as="sourcePoint" />
+            <mxPoint x="890" y="-1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="-960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-74" target="wics21i9etjW31Lj-4hc-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="-945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-74" value="Flux/ArgoCD" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-985" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="wics21i9etjW31Lj-4hc-2" target="wics21i9etjW31Lj-4hc-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143" y="-970" as="sourcePoint" />
+            <mxPoint x="142" y="-1080" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-9" value="Code Commit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="-990" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-78" value="Deploy to Kubernetes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-972" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-81" value="GitOps sync/pull" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1050" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-84" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1" target="wics21i9etjW31Lj-4hc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-990" as="sourcePoint" />
+            <mxPoint x="560" y="-990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-86" value="Network&lt;div&gt;Policies&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-1160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-87" value="automated PR on merge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-1312" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-88" value="Build Triggers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1202" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-93" value="Slack/Outlook" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-94" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wics21i9etjW31Lj-4hc-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="-1060" as="sourcePoint" />
+            <mxPoint x="990" y="-1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-95" value="Alerts /Notifications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="-1032" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wics21i9etjW31Lj-4hc-97" value="Slack/Mail&amp;nbsp;&lt;div&gt;Notifications&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="155" y="-1157" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

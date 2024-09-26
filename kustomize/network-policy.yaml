@@ -1,0 +1,36 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: np-backend
+  namespace: project-plato
+spec:
+  podSelector:
+    matchLabels:
+      app: backend
+  policyTypes:
+  - Egress
+  egress:
+  - to:
+    - podSelector:
+        matchLabels:
+          app: db1  # Restricts access to db1-* pods
+    ports:
+    - protocol: TCP
+      port: 6379  # Port for db1
+  - to:
+    - podSelector:
+        matchLabels:
+          app: db2  # Restricts access to db2-* pods
+    ports:
+    - protocol: TCP
+      port: 5432  # Port 
+    
+    
+  # egress:
+  # - to:
+  #   - ipBlock:
+  #       cidr: 10.0.0.0/24
+  #   ports:
+  #   - protocol: TCP
+  #     port: 5978
+
